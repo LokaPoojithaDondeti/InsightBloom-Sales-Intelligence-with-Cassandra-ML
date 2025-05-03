@@ -56,8 +56,8 @@ db_config = {
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/InsightBloom.git
-cd InsightBloom
+git clone https://github.com/LokaPoojithaDondeti/InsightBloom-Sales-Intelligence-with-Cassandra-ML.git
+cd InsightBloom-Sales-Intelligence-with-Cassandra-ML
 
 # Optional: Create a virtual environment
 python -m venv venv
